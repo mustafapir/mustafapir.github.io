@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        <div class="inner">
+            <div style="text-align: center;">
+                <img id="logo_img" src="/assets/images/logo.png" style="max-width: 10%;
+                height: auto;">
+            </div>
+            <header class="major">
+                <h1>{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                
+                
+            </div>
+            <div style="text-align: center;">
+                <a href="#about" class="button scrolly" style="display: inline-block;">Learn More About My Research</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% include tiles.html %}
+
+        <!-- Two -->
+        <section id="about">
+            <div class="inner">
+                <header class="major">
+                    <h2>My Research</h2>
+                </header>
+                <p>{{ content }}</p>
+            </div>
+        </section>
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
