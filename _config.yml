@@ -1,17 +1,17 @@
 # site settings
-title: Giovanni Visonà
+title: Mustafa Samet Pir
 subtitle: 
 description: Machine Learning for Precision Medicine researcher
 baseurl: # the subpath of your site, e.g. /blog
-url: "https://gvisona.com" # the base hostname & protocol for your site
-author: Giovanni Visonà
-institution: Max Planck Institute for Intelligent Systems 
-street_address: Max-Planck-Ring 4
-city: Tübingen
-state: Baden-Württemberg
-zip_code: 72076
-country: Germany
-phone: +49 7071 601 658 
+url: "https://mustafapir.github.com" # the base hostname & protocol for your site
+author: Mustafa Samet Pir
+institution: Abdullah Gül University 
+street_address: Kocasinan
+city: Kayseri
+# state: Baden-Württemberg
+zip_code: 38090
+country: Turkey
+phone: +90 530 491 6929 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/gvisona
+github_url: https://github.com/mustafapir
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
-linkedin_url: https://www.linkedin.com/in/giovanni-visona
+linkedin_url: https://www.linkedin.com/in/mustafapir
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/gio_viso
+twitter_url: https://twitter.com/mustafapir29
 
 # build settings
 markdown: kramdown
