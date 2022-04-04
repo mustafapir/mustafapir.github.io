@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Giovanni Visonà'
+landing-title: 'Mustafa Samet Pir'
 description: null
 image: null
 author: null
