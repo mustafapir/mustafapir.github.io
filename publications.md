@@ -25,9 +25,9 @@ position: 4
 			Nucleic Acids Research, Volume 50, Issue D1.</p>
 		</dd>
 		<dd>
-			<p>Ferrero, V., Visonà, G., Dalmasso, F., Gobbato, A., Cerello, P., Strigari, L., ... & Attili, A (2017)
-			<a href="https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12180" target="_blank"> Targeted dose enhancement in radiotherapy for breast cancer using gold nanoparticles, part 1: A radiobiological model study.</a>
-			Medical physics, 44(5), 1983-1992.</p>
+			<p>Sebiha Cevik, Lama Alabdi, Xiaoyu Peng, Tina Beyer, Atiyye Zorluer, <b>Mustafa S Pir</b>, Ferhan Yenisert, ..., Marius Ueffing, Fowzan S. Alkuraya, Oktay I. Kaplan (2021)
+			<a href="https://doi.org/10.1101/2021.06.10.445528" target="_blank"> WDR31 is a novel ciliopathy protein displaying functional redundancy with GTPase-activating proteins ELMOD and RP2 in recruiting BBSome to cilium.</a>
+			Preprint.</p>
 		</dd>
 	</dl>
 	</div>
