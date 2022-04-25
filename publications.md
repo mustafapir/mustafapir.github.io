@@ -13,15 +13,16 @@ position: 4
 		<header class="major">
 			<h1>Publications</h1>
 		</header>
-	<a href="https://scholar.google.co.uk/citations?user=rKTQxfkAAAAJ" class="button" target="_blank">Google Scholar Profile</a>
+	<a href="https://scholar.google.com/citations?user=kAVZ5ocAAAAJ&hl=en" class="button" target="_blank">Google Scholar Profile</a>
+	<a href="https://www.semanticscholar.org/author/Mustafa-S.-Pir/108425721" class="button" target="_blank">Semantic Scholar Profile</a>
 	<hr class="major" />
 	<dl>
-		<dt>2017</dt>
+		<dt>2021</dt>
 		<dd>
-			<p>Strigari, L., Ferrero, V., Visonà, G., Dalmasso, F., Gobbato, A., Cerello, P., ... & Attili, A. (2017)
-			<a href="https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12178" target="_blank">
-			Targeted dose enhancement in radiotherapy for breast cancer using gold nanoparticles, part 2: A treatment planning study.</a>
-			Medical physics, 44(5), 1993-2001.</p>
+			<p><b>Mustafa S Pir</b>, Halil I Bilgin, Ahmet Sayici, Fatih Coşkun, Furkan M Torun, Pei Zhao, Yahong Kang, Sebiha Cevik, Oktay I Kaplan (2021)
+			<a href="https://doi.org/10.1093/nar/gkab939" target="_blank">
+			ConVarT: a search engine for matching human genetic variants with variants from non-human species.</a>
+			Nucleic Acids Research, Volume 50, Issue D1.</p>
 		</dd>
 		<dd>
 			<p>Ferrero, V., Visonà, G., Dalmasso, F., Gobbato, A., Cerello, P., Strigari, L., ... & Attili, A (2017)

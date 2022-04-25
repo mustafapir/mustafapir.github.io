@@ -16,7 +16,7 @@ position: 2
 		<header class="major">
 			<h1>Portfolio</h1>
 		</header>
-		<p>This page contains links to some of my projects that showcase my competences in machine learning and bioinformatics. The projects are grouped in:</p>
+		<p>This page contains links to some of my projects that showcase my competences in bioinformatics. The projects are grouped in:</p>
 		<ul>
 			<li><a href="#ml-projects" class="scrolly">Machine Learning Projects</a></li>
 			<li><a href="#bioinf-projects" class="scrolly">Bioinformatics Projects</a></li>
@@ -30,7 +30,7 @@ position: 2
 		<header class="major">
 			<h2>Machine Learning Projects</h2>
 		</header>
-		<p>The following projects span a wide variety of machine learning topics, and are available on github as jupyter notebooks.</p>
+		<p>The following projects span a wide variety of machine learning topics, and are available on github.</p>
 	</div>
 </section>
 
