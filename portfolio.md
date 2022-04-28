@@ -18,8 +18,8 @@ position: 2
 		</header>
 		<p>This page contains links to some of my projects that showcase my competences in bioinformatics. The projects are grouped in:</p>
 		<ul>
-			<li><a href="#ml-projects" class="scrolly">Machine Learning Projects</a></li>
-			<li><a href="#bioinf-projects" class="scrolly">Bioinformatics Projects</a></li>
+			<li><a href="#ml-projects" class="scrolly">Bioinformatics Projects</a></li>
+			<li><a href="#bioinf-projects" class="scrolly">Functional Genomics Projects</a></li>
 		</ul>
 	</div>
 </section>
@@ -93,9 +93,9 @@ position: 2
 <section id="bioinf-projects"  class="background-accent5">
 	<div class="inner">
 		<header class="major">
-			<h2>Bioinformatics Projects</h2>
+			<h2>Functional Genomics Projects</h2>
 		</header>
-		<p>The following projects span a wide variety of machine learning topics, and are available on github as jupyter notebooks.</p>
+		<p>The following projects span a wide variety of functional genomics projects.</p>
 	</div>
 </section>
 
