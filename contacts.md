@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contact Me
+title: Contact
 nav-menu: true
-image: assets/images/tiles/contacts.jpg
-position: 1
+image: assets/images/tiles/contacts.png
+position: 4
 ---
 
 <!-- Main -->
@@ -55,10 +55,8 @@ position: 1
 					<h1>External links</h1>
 				</header>
 				<ul>
-					<li><a href="https://ei.is.tuebingen.mpg.de/person/gvisona" target="_blank">MPI-IS profile page</a></li>
-					<li><a href="https://mlfpm.eu/projects-and-students/" target="_blank">MLFPM projects and students</a></li>
-					<li><a href="https://epi-logos.com/people/" target="_blank">Epi-Logos members</a></li>
-					<li><a href="https://scholar.google.com/citations?user=rKTQxfkAAAAJ" target="_blank">Google Scholar profile</a></li>
+					<li><a href="http://kaplanlab.com/members/" target="_blank">Kaplan Lab members</a></li>
+					<li><a href="https://scholar.google.com/citations?user=kAVZ5ocAAAAJ&hl=en" target="_blank">Google Scholar profile</a></li>
 				</ul>
 			</div>	
 		</div>

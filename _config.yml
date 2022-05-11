@@ -1,7 +1,7 @@
 # site settings
 title: Mustafa Samet Pir
 subtitle: 
-description: Bioinformatics scientist looking for a PhD position
+description: I'm a bioinformatics scientist looking for a PhD position
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://mustafapir.github.io" # the base hostname & protocol for your site
 author: Mustafa Samet Pir

@@ -15,10 +15,6 @@
     <!-- Banner -->
     <section id="banner" class="major">
         <div class="inner">
-            <div style="text-align: center;">
-                <img id="logo_img" src="/assets/images/logo.png" style="max-width: 10%;
-                height: auto;">
-            </div>
             <header class="major">
                 <h1>{{ page.landing-title }}</h1>
             </header>
@@ -38,18 +34,22 @@
     <!-- Main -->
     <div id="main">
 
-        <!-- One -->
-        {% include tiles.html %}
 
         <!-- Two -->
         <section id="about">
             <div class="inner">
                 <header class="major">
-                    <h2>My Research</h2>
+                    <h2>About me</h2>
                 </header>
                 <p>{{ content }}</p>
+                <ul class="actions">
+                    <li><a href="about.html" class="button next">See my career journey</a></li>
+                </ul>
             </div>
         </section>
+
+        <!-- One -->
+        {% include tiles.html %}
 
     </div>
 
