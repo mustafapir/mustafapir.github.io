@@ -84,7 +84,7 @@ show_tile: false
 					<a href='http://kaplanlab.com/' > Oktay Kaplan </a> 
 					in the Abdullah Gül University as a bioinformatics scientist. In the mean time, I have been looking for a PhD position.
 					If you are curious about my professional background, check out 
-					<a href='https://mustafapir.github.io/CV/' > my résumé. </a> 
+					<a href='assets/CV_MustafaSametPir.pdf' > my CV. </a> 
 				</p>
 			</div>
 		</div>

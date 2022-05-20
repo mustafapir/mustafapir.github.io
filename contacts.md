@@ -65,13 +65,10 @@ position: 4
 
 
 <!-- Contact -->
-<section id="contact"  class="background-accent6">
+<section id="contact">
 	<div class="inner">
 		<section>
-		<header class="major">
-			<h1>Send me a message</h1>
-		</header>
-			<form id="message-form" action="" method="POST">
+			<form action="https://formspree.io/f/mzboywjp" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" />
@@ -85,39 +82,31 @@ position: 4
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special"
-					onclick="decodeEmail();"/></li>
+					<li><input type="submit" value="Send Message" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
-			<p>This website does not store any information on your submitted email. The contact form simply forwards an email message.</p>
 		</section>
 		<section class="split">
-			<!-- <section>
+			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
 					<h3>Email</h3>
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-					{% if site.additional_email %}
-						<a href="mailto:{{ site.additional_email }}">{{ site.additional_email }}</a>
-					{% endif %}
-				</div>
-			</section> -->
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-building"></span>
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
 					<h3>Address</h3>
 					<span>
-					{% if site.institution %}
-					    <b>{{ site.institution }}</b><br />
-					{% endif %}
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
 					{% endif %}

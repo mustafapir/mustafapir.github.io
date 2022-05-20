@@ -1,6 +1,7 @@
 # site settings
 title: Mustafa Samet Pir
 subtitle: 
+email: mustafapir29@gmail.com
 description: I'm a bioinformatics scientist looking for a PhD position
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://mustafapir.github.io" # the base hostname & protocol for your site
@@ -11,7 +12,7 @@ city: Kayseri
 # state: Baden-Württemberg
 zip_code: 38090
 country: Turkey
-phone: +90 530 491 6929 
+phone: +90 530 495 6929 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

@@ -53,6 +53,23 @@ position: 1
 		</div>
 	</section>
 	<section>
+		<a href="https://convart.org" target="_blank" class="image" >
+			<img src="{% link assets/images/portfolio/convart.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>ConVarT</h3>
+				</header>
+				<p>ConVarT is a search engine used to match human genetic variants with variants from non-human species. This repo contains pipeline to generate variant data and find matching variants between the species human, mouse and <i>C. elegans</i>. For more information, <a href="https://doi.org/10.1093/nar/gkab939"  target="_blank" class="link">click here</a>.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/thekaplanlab/ConVarT_matchVar_analysis"  target="_blank" class="button">GitHub</a></li>
+					<li><a href="https://convart.org"  target="_blank" class="button">Website</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://github.com/mustafapir" class="image">
 			<img src="{% link assets/images/portfolio/comparative_genomics.png %}" alt="" data-position="top center" />
 		</a>
@@ -77,9 +94,10 @@ position: 1
 				<header class="major">
 					<h3>Single Cell RNA-seq Analysis of Human Lung</h3>
 				</header>
-				<p>This repo analyzes publicly available raw lung single cell RNA-seq data (<a href='https://pubmed.ncbi.nlm.nih.gov/30554520/' > Reyfman et al.(2019) </a>) to find genes differentially expressed in ciliated cells. </p>
+				<p>This notebook analyzes publicly available raw lung single cell RNA-seq data (<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167295' > GSE167295 </a>) to find genes differentially expressed in ciliated cells. </p>
 				<ul class="actions">
 					<li><a href="https://github.com/mustafapir"  target="_blank" class="button">GitHub</a></li>
+					<li><a href="https://notebooksharing.space/view/3744e371a4b36dd7a7451b187ef5d7b09a96175093e54d71882bc202dc01a5be"  target="_blank" class="button">R notebook</a></li>
 				</ul>
 			</div>
 		</div>
@@ -123,7 +141,7 @@ position: 1
 				<header class="major">
 					<h3>CilioGenics Web App for Exploring Data.</h3>
 				</header>
-				<p>This shiny app is created to explore the data generated in CilioGenics project. </p>
+				<p>This shiny app is created to explore the data generated in <a href="#ml-projects" class="scrolly">CilioGenics project</a>. </p>
 				<ul class="actions">
 					<li><a href="https://github.com/thekaplanlab/CilioGenics-website"  target="_blank" class="button">GitHub</a></li>
 					<li><a href="https://ciliogenics.com" class="button">Web</a></li>
