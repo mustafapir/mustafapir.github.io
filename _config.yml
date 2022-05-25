@@ -35,3 +35,6 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+# Google Analytics
+google_analytics: G-B9QFFV8WGN
